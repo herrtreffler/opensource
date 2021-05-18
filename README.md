@@ -26,11 +26,3 @@ Wer ein <3 hat, unterstützt die jeweiligen EntwicklerInnen mit wahlweise Liebe,
 -  die Anwendung kann auch von Menschen ohne Master in Raketentechnologie bedient werden
 4. Unterstützt, spendet an und feiert die EntwicklerInnen, damit es weitergehen kann und Alternativen außerhalb der Geldlogik existieren können.
 5. Die allseits beliebte goldene Regel: "Was du nicht willst das man dir tu, das füg auch keinem anderen zu.".
-
-
-
-### Organisation
-
-### Kommunikation
-
-### Zeugs
