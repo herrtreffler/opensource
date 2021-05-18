@@ -1,6 +1,6 @@
 # opensource
 
-Alles Neue basiert auf vorangegangenen Ideen, Konzepten und Lösungen. Das Rad wurde tatsächlich nicht nur einmal erfunden, ebenso wenig wie die Glühbirne oder dieses Dingsda mit dem man dieses duweißtschonwas machen kann. Digitale Anwendungen sind da keine Ausnahme. Diese Zusammenstellung ist ein persönliche Auswahl an nützlichen Anwendungen die quelloffen und unter einer freien Lizenz auf den gängigsten Betriebssystemen sicher und datenschutzfreundlich genutzt, angepasst und verbessert werden können. 
+Alles Neue basiert auf vorangegangenen Ideen, Konzepten und Lösungen. Das Rad wurde tatsächlich nicht nur einmal erfunden, ebenso wenig wie die Glühbirne oder dieses Dingsda mit dem man dieses duweißtschonwas machen kann. Digitale Anwendungen sind da keine Ausnahme. Diese Zusammenstellung ist eine persönliche Auswahl an nützlichen Anwendungen die unter einer Open-Source Lizenz auf den gängigsten Betriebssystemen sicher und datenschutzfreundlich genutzt, angepasst und verbessert werden können. 
 
 Wer ein <3 hat, unterstützt die jeweiligen EntwicklerInnen mit wahlweise Liebe, Geld und Aufmerksamkeit. Wer Bock hat, kann gern Vorschläge machen und die Lücken auffüllen.
 
